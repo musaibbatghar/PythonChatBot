@@ -17,6 +17,7 @@ Have an aesthetically pleasing visual design and architecture.
 Has collection of pages including Home, About, Contact, ChatBot, F.A.Q and education (Ms Azure) realted information.
 User can know about information on Python through this bot.
 Included the contact information to increase scope of improvement.
+
 About ChatBot 💬:
 Created a chat bot About Azure.
 
@@ -24,3 +25,10 @@ Created a chat bot About Azure.
 Bot contains information about Python Language etc..
 
 Azure ChatBot useful for both learners and explorers.
+
+Tech Stack 💻
+Languages and Azure services used in my bot:-
+Azure Storage
+HTML
+QnA Maker
+Web App Bot
