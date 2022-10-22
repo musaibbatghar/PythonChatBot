@@ -4,9 +4,9 @@ This is for Python ChatBot and is a project for Azure (FutureReadyTalent):
 This is a Informational bot application developoed for education related to give information about Python.
 
 This web based informational bot application has been developed for the accomplishment of future ready talent internship program launched by microsoft, future skil prime, Quess, GitHub,EY.
-project link: 
-Project title:
-   Python Chat bot.
+project link: https://musaibbatgharstorage.z13.web.core.windows.net/
+Project title:  Python Chat bot
+   
 Project description 😃 :
 I have created a informational bot named Python Chat bot" using Html and services like QnA maker,Web app bot.
 
