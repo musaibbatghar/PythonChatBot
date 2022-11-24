@@ -35,6 +35,24 @@ HTML
 QnA Maker
 Web App Bot
 
-Scree![Screenshot (2)](https://user-images.githubusercontent.com/111275468/203755059-420465db-a3aa-40ec-b289-c4054e8a0312.png)
-nshot:
-![Screenshot_2022-11-21-16-49-33-446_com google android apps docs](https://user-images.githubusercontent.com/111275468/203754927-6b600d61-60fb-4a7a-b892-361269c3ab8f.jpg)
+Screenshots of Services Used:
+
+Azure Storage:
+![Screenshot_2022-11-21-16-50-05-619_com google android apps docs](https://user-images.githubusercontent.com/111275468/203756099-4092d3db-ee40-43c1-a92c-0669b4698374.jpg)
+
+QnA Maker:
+![Screenshot_2022-11-21-16-48-21-922_com google android apps docs](https://user-images.githubusercontent.com/111275468/203756177-84115356-ff76-4d7a-9c2c-ed2bbc61ea21.jpg)
+
+Web App Bot:
+![Screenshot_2022-11-21-16-49-33-446_com google android apps docs](https://user-images.githubusercontent.com/111275468/203756328-a65858dc-4ff9-480f-8db5-59617c1b4a02.jpg)
+
+Knowledge Base:
+![Screenshot_2022-11-21-16-49-00-111_com google android apps docs](https://user-images.githubusercontent.com/111275468/203756457-05627f58-d566-4de3-a18d-e819f94bda1d.jpg)
+
+Working Of Bot:
+![Screenshot_2022-11-21-16-51-27-595_com google android apps docs](https://user-images.githubusercontent.com/111275468/203756671-ce3772dc-844b-45e8-b0d2-7028dfe7f42c.jpg)
+
+Note:
+If the services are responding very slow or not responding because of expired credits of Azure.Till the time reviewing my project probably get expired.So please accept my project ASAP.
+
+THANK YOU:)
